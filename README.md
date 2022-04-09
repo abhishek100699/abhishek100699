@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I am Abhishek Singh 👋
 
-<!--
-**abhishek100699/abhishek100699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🔭 I’m currently pursuing B.E. in Information Science & Engineering
+ - 🌱 I’m currently learning DSA
+ -  💬 Ask me anything
+ -  📫 How to reach me:
+   
+       
+       - [\[LinkedIn\]](https://www.linkedin.com/in/abhishek-singh-388b99167/)
+       - [\[GitHub\]](https://github.com/abhishek100699)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  My github Stats : 
+<img src = "https://github-readme-stats.vercel.app/api?username=abhishek100699&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
